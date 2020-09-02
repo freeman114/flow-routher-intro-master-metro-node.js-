@@ -2,7 +2,7 @@
 
 ##Get Started 
 ```
-git clone git@github.com:polished85/flow-router-intro.git
+https://github.com/wolfman199311/flow-routher-intro-master-metro-node.js-.git
 ```
 
 ##Dependencies
